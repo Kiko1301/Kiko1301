@@ -86,11 +86,7 @@
 </div>
 
 <div align="center" style="margin-top: 50px;"> <img src="https://komarev.com/ghpvc/?username=Kiko1301&label=Profile+Views&color=040478&style=flat-square" alt="profile views"/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center" <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
 
 ###
+
