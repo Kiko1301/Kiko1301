@@ -25,7 +25,7 @@
 <div style="background: rgba(155, 89, 182, 0.1); padding: 20px; border-radius: 10px; margin: 20px 0;">
 
 <p align="center">
-  <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub" width="380">
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="380">
 
 - 🌍 **Frontend Web Dev** turning ideas into pixel-perfect apps  
 - 🎯 **Currently building:** Scalable front-end apps with React & Next.js  
