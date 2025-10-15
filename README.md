@@ -1,6 +1,6 @@
 <!-- Animated Gradient Banner -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" width="100%" alt="Animated Banner">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%" alt="Animated Banner">
 </div>
 
 <!-- Typing Animation -->
