@@ -36,13 +36,31 @@
 </div>
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiko1301&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="46%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Kiko1301&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&custom_title=My%20GitHub%20Stats" width="46%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kiko1301&theme=tokyonight&hide_border=true" width="92%"/>
-</p>
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 20px 0;">
+  
+  <!-- Most Used Languages -->
+  <div style="flex: 1; min-width: 300px; background: rgba(29, 29, 38, 0.7); padding: 20px; border-radius: 15px;">
+    <h3 align="center">Most Used Languages</h3>
+    <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiko1301&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+    </div>
+  </div>
+
+  <!-- GitHub Stats -->
+  <div style="flex: 1; min-width: 300px; background: rgba(29, 29, 38, 0.7); padding: 20px; border-radius: 15px;">
+    <h3 align="center">My GitHub Stats</h3>
+    <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Kiko1301&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&custom_title=My%20GitHub%20Stats" alt="GitHub Stats" />
+    </div>
+  </div>
+
+</div>
+
+<!-- GitHub Streak Stats -->
+<div align="center" style="margin: 20px 0;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kiko1301&theme=tokyonight&hide_border=true" width="80%" alt="GitHub Streak"/>
+</div>
 
 ## ✨ Fun Facts
 <div style="background: rgba(29, 29, 38, 0.7); padding: 20px; border-radius: 15px; margin: 20px 0;">
