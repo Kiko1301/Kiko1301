@@ -44,18 +44,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kiko1301&theme=tokyonight&hide_border=true" width="92%"/>
 </p>
 
-✨ **Fun Facts**
-<hr style="border:0.5px solid #444; margin:10px 0;" />
-<ul>
-  <li>☕ Coffee makes my code 10x better</li>
-  <li>🔐 Escape room speedrunner 🗝️</li>
-  <li>🧘 Yoga helps me debug in peace</li>
-  <li>🌍 Fluent in tech & travel</li>
-</ul>
+## ✨ Fun Facts
+<div style="background: rgba(29, 29, 38, 0.7); padding: 20px; border-radius: 15px; margin: 20px 0;">
+  <ul>
+    <li>☕ Coffee makes my code 10x better</li>
+    <li>🔐 Escape room speedrunner 🗝️</li>
+    <li>🧘 Yoga helps me debug in peace</li>
+    <li>🌍 Fluent in tech & travel</li>
+  </ul>
+</div>
 
-📫 **Let's Connect**
-<hr style="border:0.5px solid #444; margin:10px 0;" />
-<div align="center">
+## 📫 Let's Connect
+<div align="center" style="background: rgba(29, 29, 38, 0.7); padding: 20px; border-radius: 15px; margin: 20px 0;">
   <a href="mailto:jordanovskikr@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
