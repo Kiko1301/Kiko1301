@@ -36,10 +36,10 @@
 </div>
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiko1301&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="35%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Kiko1301&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&custom_title=My%20GitHub%20Stats" width="35%" />
-</p>
+<div align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiko1301&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" style="flex: 1; min-width: 300px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kiko1301&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&custom_title=My%20GitHub%20Stats" style="flex: 1; min-width: 300px;" />
+</div>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kiko1301&theme=tokyonight&hide_border=true" width="92%"/>
 </p>
