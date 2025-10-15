@@ -51,10 +51,11 @@
 ## ✨ Fun Facts
 <div style="background: rgba(29, 29, 38, 0.7); padding: 20px; border-radius: 15px; margin: 20px 0;">
   <ul>
-    <li>☕ Coffee makes my code 10x better</li>
-    <li>🔐 Escape room speedrunner 🗝️</li>
-    <li>🧘 Yoga helps me debug in peace</li>
-    <li>🌍 Fluent in tech & travel</li>
+    <li>🚀 Front‑end by day, network architect by night</li>
+    <li>💻 From Discord bots to React apps — I build what I imagine</li>
+    <li>🔐 Cybersecurity mindset: if it’s online, I’ll secure it</li>
+    <li>🧠 I treat errors like puzzles, not problems</li>
+    <li>🌍 Tech explorer always learning something new</li>
   </ul>
 </div>
 
