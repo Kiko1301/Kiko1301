@@ -19,15 +19,19 @@
 </div>
 
 ## 🚀 About Me
-<div style="background: rgba(29, 29, 38, 0.7); padding: 20px; border-radius: 15px; display:flex; flex-wrap:wrap; align-items:flex-start; justify-content:space-between; position: relative;">
-  <ul style="flex:1; min-width:250px; margin-right:20px;">
-    <li>🌍 <strong>Frontend Dev</strong> turning ideas into pixel-perfect interfaces</li>
-    <li>🎯 <strong>Currently working with:</strong> React & Next.js</li>
-    <li>💬 <strong>Languages I use:</strong> <code>Python</code> · <code>Java</code> · <code>TypeScript</code> · <code>JavaScript</code></li>
-    <li>🔎 <strong>Exploring:</strong> Next-gen frontend tools, design systems, and smooth user journeys</li>
-    <li>🤝 <strong>Open to:</strong> collaborations, freelance projects, and cool side-missions</li>
-  </ul>
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="250" style="border-radius:15px; position: absolute; top: -100px; right: 20px;">
+<div style="background: rgba(29, 29, 38, 0.7); padding: 20px; border-radius: 15px; display: flex; align-items: flex-start; gap: 30px;">
+  <div style="flex: 1;">
+    <ul style="margin: 0; padding: 0; list-style: none;">
+      <li style="margin-bottom: 10px;">🌍 <strong>Frontend Dev</strong> turning ideas into pixel-perfect interfaces</li>
+      <li style="margin-bottom: 10px;">🎯 <strong>Currently working with:</strong> React & Next.js</li>
+      <li style="margin-bottom: 10px;">💬 <strong>Languages I use:</strong> <code>Python</code> · <code>Java</code> · <code>TypeScript</code> · <code>JavaScript</code></li>
+      <li style="margin-bottom: 10px;">🔎 <strong>Exploring:</strong> Next-gen frontend tools, design systems, and smooth user journeys</li>
+      <li style="margin-bottom: 10px;">🤝 <strong>Open to:</strong> collaborations, freelance projects, and cool side-missions</li>
+    </ul>
+  </div>
+  <div style="flex-shrink: 0;">
+    <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="250" style="border-radius:15px;">
+  </div>
 </div>
 
 ## 🛠️ Tech Stack
