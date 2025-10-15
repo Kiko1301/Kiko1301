@@ -27,7 +27,7 @@
     <li>🔎 <strong>Exploring:</strong> Next-gen frontend tools, design systems, and smooth user journeys</li>
     <li>🤝 <strong>Open to:</strong> collaborations, freelance projects, and cool side-missions</li>
   </ul>
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="250" style="border-radius:15px;">
+ <img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="250" style="border-radius:15px; margin-top: -20px;">
 </div>
 
 ## 🛠️ Tech Stack
