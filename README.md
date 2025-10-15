@@ -18,33 +18,25 @@
   </a>
 </div>
 
----
-
 ## 🚀 About Me
 
 <div style="background: rgba(29, 29, 38, 0.7); padding: 20px; border-radius: 15px; display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap;">
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="250">
-
-- 🌍 **Frontend Dev** turning ideas into pixel-perfect interfaces  
-- 🎯 **Currently working with:** React & Next.js  
-- 💬 **Languages I use:** `Python` · `Java` · `TypeScript` · `JavaScript`  
-- 🔎 **Exploring:** Next-gen frontend tools, design systems, and smooth user journeys  
-- 🤝 **Open to:** collaborations, freelance projects, and cool side-missions  
-
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="250">
+  <ul>
+    <li>🌍 <strong>Frontend Dev</strong> turning ideas into pixel-perfect interfaces</li>
+    <li>🎯 <strong>Currently working with:</strong> React & Next.js</li>
+    <li>💬 <strong>Languages I use:</strong> <code>Python</code> · <code>Java</code> · <code>TypeScript</code> · <code>JavaScript</code></li>
+    <li>🔎 <strong>Exploring:</strong> Next-gen frontend tools, design systems, and smooth user journeys</li>
+    <li>🤝 <strong>Open to:</strong> collaborations, freelance projects, and cool side-missions</li>
+  </ul>
 </div>
-
----
 
 ## 🛠️ Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,py,git,linux,figma&perline=7" alt="Tech Stack" />
 </div>
 
----
-
 ## 📈 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiko1301&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="46%" />
   <img src="https://github-readme-stats.vercel.app/api?username=Kiko1301&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&custom_title=My%20GitHub%20Stats" width="45%" />
@@ -54,19 +46,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kiko1301&theme=tokyonight&hide_border=true" width="91%"/>
 </p>
 
----
-
 ✨ **Fun Facts**  
-
-- ☕ Coffee makes my code 10x better  
-- 🔐 Escape room speedrunner 🗝️  
-- 🧘 Yoga helps me debug in peace  
-- 🌍 Fluent in tech & travel  
-
----
+<ul>
+  <li>☕ Coffee makes my code 10x better</li>
+  <li>🔐 Escape room speedrunner 🗝️</li>
+  <li>🧘 Yoga helps me debug in peace</li>
+  <li>🌍 Fluent in tech & travel</li>
+</ul>
 
 📫 **Let's Connect**
-
 <div align="center">
   <a href="mailto:jordanovskikr@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
@@ -75,8 +63,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Kiko1301&label=Profile+Views&color=040478&style=flat-square" alt="profile views"/>
