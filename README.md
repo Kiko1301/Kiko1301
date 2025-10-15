@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 About Me  
+🚀 About Me  
 
 <div style="background: rgba(155, 89, 182, 0.1); padding: 20px; border-radius: 10px;">
 
@@ -39,7 +39,7 @@
 
 ---
 
-## 🛠️ Tech Stack  
+🛠️ Tech Stack  
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,py,git,linux,figma&perline=7" alt="Tech Stack" />
@@ -47,7 +47,7 @@
 
 ---
 
-## 📈 GitHub Stats  
+📈 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiko1301&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="46%" />
@@ -60,7 +60,7 @@
 
 ---
 
-## ✨ Fun Facts  
+✨ Fun Facts  
 
 - ☕ Coffee makes my code 10x better  
 - 🔐 Escape room speedrunner 🗝️  
@@ -69,7 +69,7 @@
 
 ---
 
-## 📫 Let's Connect  
+📫 Let's Connect  
 
 <div align="center">
   <a href="mailto:jordanovskikr@gmail.com" target="_blank">
