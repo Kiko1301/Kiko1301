@@ -6,9 +6,9 @@
   </picture>
 </div>
 
-<!-- Typing Animation - Professional Blue -->
+<!-- Typing Animation - PERFECTLY FIXED -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=500&color=2563eb&center=true&vCenter=true&width=100%&lines=Hey+there%2C+I'm+Kristijan!;Frontend+Web+Developer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=500&color=2563eb&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Kristijan!;Frontend+Web+Developer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </h1>
 
 <!-- Social Badges -->
