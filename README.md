@@ -47,6 +47,7 @@
 </p>
 
 ✨ **Fun Facts**  
+<hr style="border:0.5px solid #444; margin:10px 0;" />
 <ul>
   <li>☕ Coffee makes my code 10x better</li>
   <li>🔐 Escape room speedrunner 🗝️</li>
@@ -55,6 +56,7 @@
 </ul>
 
 📫 **Let's Connect**
+<hr style="border:0.5px solid #444; margin:10px 0;" />
 <div align="center">
   <a href="mailto:jordanovskikr@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
@@ -62,9 +64,4 @@
   <a href="https://www.linkedin.com/in/kristijan-jordanovski-b3043631b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kiko1301&label=Profile+Views&color=040478&style=flat-square" alt="profile views"/>
-  <img src="https://raw.githubusercontent.com/Kiko1301/Kiko1301/output/snake.svg" alt="Snake animation" />
 </div>
